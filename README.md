@@ -1,3 +1,3 @@
 # maven
 
-Maven Project
+Maven
